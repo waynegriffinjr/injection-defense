@@ -747,12 +747,6 @@ The detection mechanisms are heuristics and should not be treated as guarantees 
 
 ## License
 
-Add the license appropriate for your project.
-
-For example:
-
 ```text
 MIT License
 ```
-
-if you choose to release the project under the MIT License.
